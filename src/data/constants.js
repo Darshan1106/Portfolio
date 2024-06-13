@@ -223,7 +223,7 @@ export const education = [
     id: 2,
     img: "https://i.ytimg.com/vi/VSXclonV8X4/maxresdefault.jpg",
     school: "Deolali High School, Deolali Camp",
-    date: "March 2018",
+    date: "March 2019",
     grade: "85%",
     desc: "I completed my class 10 education at Deolali High School, Deolali Camp.",
     degree: "SSC(X)",
